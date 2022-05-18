@@ -7,3 +7,5 @@
 * Анимация при наведении курсора на ссылки
 * Блоки GRID
 * Подключение шрифта Inter и его сглаживание
+
+[example site] https://alekseychumak.github.io/russian-travel/index.html
